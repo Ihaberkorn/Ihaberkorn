@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello! 👋
+I'm Isaac Haberkorn, an undergrad studying Computer Science at Northern Arizona University.
 
-<!--
-**Ihaberkorn/Ihaberkorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking for:
+* Computer Science projects
+* Data Science projects
+* Computer Science internships
+## Experience
+I have a foundation in:
+* Python
+* C
+* Javascript
+* HTML + CSS
 
-Here are some ideas to get you started:
+Passed Harvard's CS50 Online Course
+## Currently Learning
+Northern Arizona University, Flagstaff AZ
+*  CS200 Computer Organization
+*  CS136 Computer Science II
+*  CS205 Computing Tools II
+*  MAT226 Discrete Mathematics
+## Projects
+Website development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
