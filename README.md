@@ -2,9 +2,8 @@
 I'm Isaac Haberkorn, an undergrad studying Computer Science at Northern Arizona University.
 
 I am looking for:
-* Computer Science projects
-* Data Science projects
-* Computer Science internships
+* Internships
+* Projects
 ## Experience
 I have a foundation in:
 * Python
