@@ -19,6 +19,6 @@ Northern Arizona University, Flagstaff AZ
 *  CS205 Computing Tools II
 *  MAT226 Discrete Mathematics
 ## Projects
-[pokemon ranking website](https://github.com/Ihaberkorn/pokemon_ranking_website)
+[Pokemon Ranking Website](https://github.com/Ihaberkorn/pokemon_ranking_website)
 [Pokemon Data Analysis](https://github.com/Ihaberkorn/Pokemon-Data-Analysis)
-[Saguaro](
+[Saguaro Data Analysis and Machine Learning (In Progress)](https://github.com/Ihaberkorn/Saguaro-Data-Analysis-and-Machine-Learning)
