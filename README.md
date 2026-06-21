@@ -1,5 +1,5 @@
 ## Hello! 👋
-I'm Isaac Haberkorn, an undergrad studying Computer Science at Northern Arizona University.
+I'm Isaac Haberkorn, an undergrad studying Bioinformatics at Northern Arizona University.
 
 I am looking for:
 * Internships
@@ -20,5 +20,4 @@ Northern Arizona University, Flagstaff AZ
 *  MAT226 Discrete Mathematics
 ## Projects
 [pokemon ranking website](https://github.com/Ihaberkorn/pokemon_ranking_website)
-
- 
+[Pokemon Ranking Data Analysis](
